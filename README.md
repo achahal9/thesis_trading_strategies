@@ -2,12 +2,6 @@
 ## Jean-Christophe Scheider & Arjun Chahal
 **Abstract:** Identify a trading signal (or multiple), implement a trading strategy and test whether that strategy is profitable.
 
-**Literature Review Sources:**
-- https://www.robeco.com/en-int/insights/2021/01/factor-investing-debates-do-big-data-and-ai-herald-a-new-dawn-for-quant
-- https://www.fuqua.duke.edu/duke-fuqua-insights/harvey-factor-investing#:~:text=Harvey%20said%20investors%20are%20too,it's%20assumed%20to%20be%20zero.%E2%80%9D
-- https://www.traxtech.com/blog/bloombergs-supply-chain-georisks-report#:~:text=The%20research%20introduces%20the%20concept,time%20supplier%20and%20customer%20relationships.
-- https://www.deloitte.com/us/en/insights/industry/financial-services/embracing-alternative-data-for-investment-decisions.html
-
 ## Thesis Proposal
 The proposal should contain six clearly defined components in one page:
 1. Title
